@@ -86,7 +86,7 @@ This document provides a list of CEUs required to maintain active status for var
 ---
 
 ## Additional Resources
-- [CompTIA CE Program Overview](https://www.comptia.org/continuing-education)
+- [CompTIA CE Program Overview](https://www.comptia.org/continuing-education))
 - [CompTIA CE Activities Documentation]([https://www.comptia.org/continuing-education/ce-activities](https://www.comptia.org/continuing-education/choose/renewal-options))
 - [Renewal Fee Information]([https://www.comptia.org/continuing-education/ce-fees](https://www.comptia.org/continuing-education/learn/ce-program-fees))
 
